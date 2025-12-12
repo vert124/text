@@ -69,4 +69,4 @@
     ["Horegini Boom"]                  = "🚛",
     ["25"]                             = "🧤",
     ["Pirulitoita Bicicleteira"]        = "🍭",
-    ["Pot Hotspot"]                    = "🛜",
+    ["Pot Hotspot"]                    = "🛜"
