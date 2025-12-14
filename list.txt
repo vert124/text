@@ -39,7 +39,7 @@
     "Los Bros",
     "La Extinct Grande",
     "Los 67",
-    "Los 25",
+    "Los Candies",
     "Celularcini Viciosini",
     "Los Mobilis",
     "Money Money Puggy",
