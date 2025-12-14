@@ -71,7 +71,7 @@
     ["Chicleteira Bicicleteira"]       = "🚲",
     ["Quesadillo Vampiro"]             = "🛼",
     ["Ho Ho Ho Sahur"]                 = "🏂",
-    ["Naughty Naughty"]                = "🗒️",
+    ["Naughty Naughty"]                = "📋",
     ["Pot Pumpkin"]                    = "🍫",
     ["Quesadilla Crocodila"]           = "🐊",
     ["Horegini Boom"]                  = "🚛",
