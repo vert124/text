@@ -35,7 +35,7 @@
 ["Tralaledon"] = "🦈",
 ["Gobblino Uniciclino"] = "🦃",
 ["Mieteteira Bicicleteira"] = "🪦",
-["Money Money Reindeer"] = "🫎",
+["Money Money Reindeer"] = "💰",
 ["Chipso and Queso"] = "🥫",
 ["Chillin Chili"] = "🌶",
 ["La Spooky Grande"] = "🎃",
