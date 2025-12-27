@@ -1,5 +1,6 @@
 ["Strawberry Elephant"] = "🐘",
 ["Meowl"] = "🦉",
+["Skibidi Toilet"] = "🧻",
 ["Dragon Gingerini"] = "🐲",
 ["Dragon Cannelloni"] = "🐉",
 ["Headless Horseman"] = "🐎",
