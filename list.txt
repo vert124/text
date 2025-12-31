@@ -64,5 +64,4 @@
 "Swag Soda",
 "Mariachi Corazoni",
 "Los 25",
-"Tralalero Tralala",
 "La Grande Combinasion"
