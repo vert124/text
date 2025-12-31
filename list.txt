@@ -65,4 +65,3 @@
 "Mariachi Corazoni",
 "Los 25",
 "La Grande Combinasion",
-"Cocofanto Elefanto"
