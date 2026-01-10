@@ -78,5 +78,4 @@
 ["Chicleteirina Bicicleteirina"] = "🚴‍♀️",
 ["Burrito Bandito"] = "🏍️",
 ["Quesadillo Vampiro"] = "🛼",
-["Chicleteira Bicicleteira"] = "🚲",
-["Bunito Bunito Spinito"] = "🎡"
+["Chicleteira Bicicleteira"] = "🚲"
