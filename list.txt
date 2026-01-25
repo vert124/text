@@ -1,6 +1,7 @@
 "Strawberry Elephant",
 "Meowl",
 "Skibidi Toilet",
+"Hydra Dragon Cannelloni",
 "Dragon Gingerini",
 "Dragon Cannelloni",
 "Headless Horseman",
