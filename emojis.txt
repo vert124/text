@@ -78,9 +78,12 @@
 ["Rang Ring Bus"] = "🚌",
 ["Noo my Present"] = "🙇‍♀️",
 ["Los Nooo My Hotspotsitos"] = "🌯",
+["Arcadopus"] = "🕹️",
 ["Noo my Candy"] = "🙇‍♂️",
+["Chill Puppy"] = "🍧",
 ["Los Quesadillas"] = "🐊",
 ["Chicleteirina Bicicleteirina"] = "🚴‍♀️",
 ["Burrito Bandito"] = "🏍️",
 ["Quesadillo Vampiro"] = "🛼",
+["Brunito Marsito"] = "🕺",
 ["Chicleteira Bicicleteira"] = "🚲"
