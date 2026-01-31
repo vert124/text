@@ -6,6 +6,7 @@
 "Dragon Cannelloni",
 "Headless Horseman",
 "Cerberus",
+"Popcuru and Fizzuru",
 "Capitano Moby",
 "Cooki and Milki",
 "Burguro And Fryuro",
