@@ -36,6 +36,7 @@
 "Ketupat Kepat",
 "La Taco Combinasion",
 "Tang Tang Keletang",
+"Lovin Rose",
 "Los Tacoritas",
 "Eviledon",
 "Los Primos",
