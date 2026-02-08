@@ -23,6 +23,7 @@
 "Los Spaghettis",
 "Festive 67",
 "Spaghetti Tualetti",
+"Rosetti Tualetti",
 "Garama and Madundung",
 "Jolly Jolly Sahur",
 "Lavadorito Spinito",
