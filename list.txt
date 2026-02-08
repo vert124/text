@@ -18,6 +18,7 @@
 "Fragrama and Chocrama",
 "Spooky and Pumpky",
 "La Ginger Sekolah",
+"Love Love Bear",
 "Ginger Gerat",
 "Los Spaghettis",
 "Festive 67",
