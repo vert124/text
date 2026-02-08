@@ -7,6 +7,7 @@
 "Headless Horseman",
 "Cerberus",
 "Popcuru and Fizzuru",
+"Rosey and Teddy",
 "Capitano Moby",
 "Cooki and Milki",
 "Burguro And Fryuro",
