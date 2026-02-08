@@ -64,6 +64,7 @@
 "Los Spooky Combinasionas",
 "Los Hotspotsitos",
 "Los Planitos",
+"Chicleteira Cupideira",
 "Las Sis",
 "Spinny Hammy",
 "Tacorita Bicicleta",
